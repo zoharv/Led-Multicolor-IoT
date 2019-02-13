@@ -74,6 +74,6 @@ void loop() {
 ```
 ## **Node-Red**
 
-(Node-REDledmulticolor.jpg)
+![](Node-REDledmulticolor.png)
 
 ![photo: ](ledmuliticolor.jpg)

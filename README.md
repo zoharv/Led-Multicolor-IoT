@@ -6,7 +6,7 @@ Led Multicolor IoT
 Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@luisribeiro1995](https://github.com/LuisRibeiro1995)
 
 ## Video :
-[![video](https://www.youtube.com/watch?v=_VJEbB0QMjM)](https://www.youtube.com/watch?v=_VJEbB0QMjM)
+[![video](https://img.youtube.com/vi/_VJEbB0QMjM/0.jpg)](https://www.youtube.com/watch?v=_VJEbB0QMjM)
 
 
 ## **Bibliothéque utilisée**

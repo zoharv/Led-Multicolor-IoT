@@ -20,7 +20,7 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@luisr
 
 ## **Montage**
 
-![schema : ](.jpg)
+![schema : ](ledmulticolor.jpg)
 
 ## **Code**
 

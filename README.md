@@ -10,7 +10,7 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@luisr
 
 
 ## **Bibliothéque utilisée**
-+ esp32 : [https://github.com/adafruit/Adafruit_MQTT_Library)
++ Adafruit : [https://github.com/adafruit/Adafruit_MQTT_Library)
 + Wifi : [https://www.arduino.cc/en/Reference/WiFi)
 
 ## **Matériel**
